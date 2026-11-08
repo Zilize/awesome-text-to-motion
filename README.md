@@ -161,6 +161,7 @@ Thank you for contributing to the awesome-text-to-motion collection! 🚀
 
 
 ## Models
+- **TIMotion**: "Temporal and Interactive Framework for Efficient Human-Human Motion Generation". `CVPR(2025)` [[URL]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_TIMotion_Temporal_and_Interactive_Framework_for_Efficient_Human-Human_Motion_Generation_CVPR_2025_paper.pdf) [[Project Page]](https://aigc-explorer.github.io/TIMotion-page/)
 
 - **X-MoGen**: "X-MoGen: Unified Motion Generation across Humans and Animals". `arXiv(2025)` [[URL]](https://arxiv.org/abs/2508.05162)
 
